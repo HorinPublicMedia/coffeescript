@@ -1,8 +1,11 @@
+# CoffeeScript
+
+
 <div align="center">
-<img src="h.png" width="100%" style="text-align-all:center; ">
+<img src="h.png" width="50%" style="text-align-all:center; ">
 </div>
 
-# CoffeeScript
+
 
 Hello my dear friend .
 I am very happy that you have been invited to this tournament.
