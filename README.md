@@ -1,3 +1,7 @@
+<div align="center">
+<img src="h.png" width="100%" style="text-align-all:center; ">
+</div>
+
 # CoffeeScript
 
 Hello my dear friend .
