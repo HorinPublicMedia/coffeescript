@@ -8,5 +8,6 @@ If you have any questions or problems in understanding the issue asked of you, c
 
 > [!NOTE]
 > Please let us know your estimated time to complete the project before starting the task.
+
 > [!NOTE]
 > Your time is very valuable for us, so please show at least one of your best as soon as you can, it will be enough for us.
